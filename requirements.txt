@@ -1,0 +1,8 @@
+conda create -n <My_env> python=3.6
+conda activate <My_env>
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install scikit-learn
+streamlit
+joblib
